@@ -56,7 +56,7 @@ body {
   z-index: -5;
   top: -79px;
   overflow: hidden;
-  height: 4701px;
+  height: 4742px;
   width: 100%;
 }
 
@@ -1442,11 +1442,11 @@ footer {
 @media only screen and (max-width: 1239px) {
 
   .background__container {
-    height: 4906px;
+    height: 4953px;
   }  
 
   .background {
-    height: 4995px;
+    height: 5035px;
     top: -79px;
   }
 
@@ -1874,7 +1874,7 @@ footer {
   }  
 
   .background__container {
-    height: 4989px;
+    height: 5061px;
   }
 
   .our-cases__blocks-info {
